@@ -20,7 +20,7 @@ function displayAddress() {
 		else {
 			if(street.match(digits))
 	    {
-				if(street>0)
+				if(street>=0)
 				{
 					var ans=1;
 		      for(var i=1;i<=street;i++)
