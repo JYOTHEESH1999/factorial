@@ -1,0 +1,21 @@
+body
+{
+  background-color: rgb(66, 162, 189);
+}
+p
+{
+  font-size: 30px;
+  font-style: Times New Roman;
+  color:rgb(24, 44, 97);
+}
+.dev
+{
+  font-size: 30px;
+  font-style: Times New Roman;
+  color:rgb(24, 44, 97);
+}
+h1
+{
+  color:rgb(171, 22, 22);
+  font-size: 60px;
+}
