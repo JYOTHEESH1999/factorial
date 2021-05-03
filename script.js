@@ -33,7 +33,7 @@ function displayAddress() {
 	      }
 	    }
 			else {
-				document.getElementById("msg").innerHTML = "Hello "+name +" enter a number ";
+				document.getElementById("msg").innerHTML = "Hello "+name +" enter a positive number ";
 			}
 		}
 
